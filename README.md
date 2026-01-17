@@ -78,10 +78,6 @@ I believe in **learning by building**, not just tutorials.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=chandraprakashsahu&theme=tokyonight&hide_border=true" />
 </p>
 
