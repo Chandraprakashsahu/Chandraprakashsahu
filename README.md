@@ -40,7 +40,7 @@ I believe in **learning by building**, not just tutorials.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandraprakashsahu&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandraprakashsahu&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ I believe in **learning by building**, not just tutorials.
 ## 📊 GitHub Stats (Stable Version)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ I believe in **learning by building**, not just tutorials.
 ## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandraprakashsahu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandraprakashsahu&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I believe in **learning by building**, not just tutorials.
   <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/chandraprakashsahu">
+  <a href="https://github.com/Chandraprakashsahu">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -81,5 +81,11 @@ I believe in **learning by building**, not just tutorials.
 <p align="center">
   <i>"Consistency beats motivation. Build daily."</i> 🔥
 </p>
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chandraprakashsahu&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
