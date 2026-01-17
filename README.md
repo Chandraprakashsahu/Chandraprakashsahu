@@ -42,9 +42,8 @@ I believe in **learning by building**, not just reading documentation.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashsahu&hide=issues,prs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chandraprakashsahu&theme=tokyonight&hide_border=true" />
 </p>
