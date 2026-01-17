@@ -1,62 +1,77 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Chandraprakash%20Sahu&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Chandraprakash%20Sahu&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Real-World+Products;Exploring+AI+%26+SaaS;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F7FFF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Building+Products%2C+Not+Just+Projects;Learning+Every+Day+%F0%9F%94%A5" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-💻 I’m a **Full Stack Developer** who enjoys turning ideas into real-world products  
-🧠 Currently learning **Backend deeply (Django, APIs, system thinking)**  
-🤖 Exploring **AI tools, automation & SaaS product ideas**  
-🎯 Goal: **Build impactful tech products & grow as a strong engineer**
+I'm a **Full-Stack Developer** who enjoys building real-world products, exploring backend logic, and designing clean user interfaces.  
+I believe in **learning by building**, not just reading documentation.
+
+- 🧠 Backend-first thinking with practical UI
+- 🚀 Interested in scalable systems & product engineering
+- 🌱 Currently improving DSA + system fundamentals
+- 🎯 Goal: Work with high-impact tech companies & startups
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 When I code, I rely on
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,github,docker" />
+</p>
+
+> I focus on clean backend logic, scalable APIs, and UI that actually solves user problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Product / Tool Based Projects
+- **Stock Market Analytics Tool** – Data-driven insights for smarter decisions  
+- **Portfolio with 3D UI** – Interactive experience using modern web tech  
+- **Web Apps with Django + React** – End-to-end full stack applications  
+
+> *(More projects coming — building in public)*
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chandraprakashsahu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-🚀 **IT Team Management System**  
-→ Django-based internal tool for managing teams and workflows  
-
-🤖 **AI SaaS Bot**  
-→ Automation + AI concepts with practical use cases  
-
-📚 **Library Demo**  
-→ Python-based learning project focused on core concepts  
-
----
-
-## 📊 GitHub Stats
+## 🔥 Contribution Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraprakashsahu&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandraprakashsahu&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/chandraprakashsahu">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<p align="center">
+  <i>"Consistency beats motivation. Build daily."</i> 🔥
+</p>
