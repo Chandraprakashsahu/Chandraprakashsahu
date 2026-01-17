@@ -40,7 +40,8 @@ I believe in **learning by building**, not just tutorials.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandraprakashsahu&theme=onedark&no-frame=true&margin-w=15" />
+  <!-- Maine username me 'C' capital kiya hai -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandraprakashsahu&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -48,12 +49,13 @@ I believe in **learning by building**, not just tutorials.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Yahan maine URL fix kar diya hai -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- Maine username me 'C' capital kiya hai -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chandraprakashsahu&theme=tokyonight&hide_border=true" />
+  <!-- Maine username me 'C' capital kiya hai -->
+  <img src="https://streak-stats.demolab.com?user=Chandraprakashsahu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,7 +63,7 @@ I believe in **learning by building**, not just tutorials.
 ## 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandraprakashsahu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandraprakashsahu&theme=tokyonight" />
 </p>
 
 ---
@@ -72,7 +74,7 @@ I believe in **learning by building**, not just tutorials.
   <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/chandraprakashsahu">
+  <a href="https://github.com/Chandraprakashsahu">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
