@@ -81,15 +81,18 @@ I believe in **learning by building**, not just tutorials.
   <img src="https://streak-stats.demolab.com?user=chandraprakashsahu&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandraprakashsahu&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandraprakashsahu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandraprakashsahu&theme=tokyonight" />
+</p>
+
+
 ---
+
 
 <p align="center">
   <i>"Consistency beats motivation. Build daily."</i> 🔥
