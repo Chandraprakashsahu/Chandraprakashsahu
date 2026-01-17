@@ -1,40 +1,62 @@
-<h1 align="center">Hi 👋, I'm Chandraprakash Sahu</h1>
-<h3 align="center">Full Stack Developer | Python • Django • React</h3>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Chandraprakash%20Sahu&fontSize=38&fontColor=ffffff" />
 
----
-
-### 🚀 About Me
-- 💻 Full-stack developer who loves building real-world products  
-- 🧠 Learning backend deeply (Django, APIs, System thinking)  
-- 🌱 Exploring AI tools & SaaS ideas  
-- 🎯 Goal: Build impactful products & grow as an engineer  
-
----
-
-### 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Real-World+Products;Exploring+AI+%26+SaaS;Learning+Every+Day" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-- 🔹 **IT Team Management System** – Django based internal tool  
-- 🔹 **AI SaaS Bot** – Automation + AI concepts  
-- 🔹 **Library Demo** – Python project  
+## 🚀 About Me
+
+💻 I’m a **Full Stack Developer** who enjoys turning ideas into real-world products  
+🧠 Currently learning **Backend deeply (Django, APIs, system thinking)**  
+🤖 Exploring **AI tools, automation & SaaS product ideas**  
+🎯 Goal: **Build impactful tech products & grow as a strong engineer**
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=tokyonight" />
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,github" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- 💼 LinkedIn: (add later)
-- 📫 Email: (optional)
+## 📌 Featured Projects
+
+🚀 **IT Team Management System**  
+→ Django-based internal tool for managing teams and workflows  
+
+🤖 **AI SaaS Bot**  
+→ Automation + AI concepts with practical use cases  
+
+📚 **Library Demo**  
+→ Python-based learning project focused on core concepts  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraprakashsahu&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
