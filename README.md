@@ -65,34 +65,115 @@ I believe in **learning by building**, not just tutorials.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
-- **Stock Market Analytics Tool** – Data-driven insights & dashboards  
-- **3D Portfolio Website** – Interactive UI using modern web tech  
-- **Django + React Web Apps** – Full-stack scalable applications  
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Website</th>
+</tr>
 
-> 🚧 Building in public — more coming soon
+<tr>
+<td><b>AI Chat Bot</b></td>
+<td>
+AI-powered chatbot for smart conversations, user queries handling,
+and real-time responses.
+<br/>
+<b>Tech:</b> Python · AI · API · React
+</td>
+<td>
+<a href="https://ai-saas-bot.vercel.app/" target="_blank">🔗 Visit</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Summary App</b></td>
+<td>
+Video summarization app that converts long content into
+short, meaningful summaries.
+<br/>
+<b>Tech:</b> JavaScript · API · React
+</td>
+<td>
+<a href="https://vidsum-prakzo.vercel.app/" target="_blank">🔗 Visit</a>
+</td>
+</tr>
+
+<tr>
+<td><b>My Portfolio</b></td>
+<td>
+Personal developer portfolio showcasing skills, projects,
+animations and modern UI design.
+<br/>
+<b>Tech:</b> React · HTML · CSS · JavaScript
+</td>
+<td>
+<a href="https://chandraprakash-profile.vercel.app/" target="_blank">🔗 Visit</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Prakzo</b></td>
+<td>
+Business / startup-oriented web platform focused on digital solutions,
+branding and web services.
+<br/>
+<b>Tech:</b> React · Django · REST API
+</td>
+<td>
+<a href="https://prakzo-live-link.com" target="_blank">🔗 Visit</a>
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandraprakashsahu&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Chandraprakashsahu&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chandraprakashsahu&show_icons=true&theme=tokyonight&count_private=true" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandraprakashsahu&theme=tokyonight" />
 </p>
 
+
 ---
 
 ## 💻 Languages
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandraprakashsahu&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandraprakashsahu&theme=tokyonight" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img width="420"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandraprakashsahu&layout=compact&theme=tokyonight" />
+
+</td>
+<td align="center">
+
+<img width="370"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandraprakashsahu&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -104,7 +185,7 @@ I believe in **learning by building**, not just tutorials.
 
 
 <p align="center">
-  <i>"Consistency beats motivation. Build daily."</i> 🔥
+  <i>"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future." - Steve Jobs</i> 🔥
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
