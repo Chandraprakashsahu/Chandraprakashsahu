@@ -9,13 +9,12 @@
 ![](https://komarev.com/ghpvc/?username=Chandraprakashsahu&color=fb4362)
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** focused on building **real-world, product-driven applications**.  
-I believe in **learning by building**, not just tutorials.
+Hi, I'm **Chandraprakash Sahu** — a **Full-Stack Developer** and **Founder & CEO of Prakzo**, focused on building real-world, product-driven applications. I believe in **learning by building**.
 
-- 🧠 Backend-first thinking with clean UI
-- 🚀 Interested in scalable systems & SaaS products
-- 🌱 Currently improving DSA & system fundamentals
-- 🎯 Goal: Work with high-impact tech companies & startups
+- 🧠 Strong focus on scalable backend systems and real-world problem solving  
+- 🚀 Interested in scalable systems & SaaS products  
+- 🌱 Currently improving DSA & system fundamentals  
+- 🎯 Goal: Build high-impact products and grow Prakzo into a strong tech company
 
 ---
 
